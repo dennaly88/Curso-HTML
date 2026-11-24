@@ -257,3 +257,25 @@
     <tr><td>95</td><td>Campo de fecha</td><td>☑️</td></tr>
     <tr><td>95</td><td>Casillas</td><td>☑️</td></tr>
 
+    ---
+
+## 👤 Autor
+
+<div align="center">
+
+### Danny José Jiménez Gutiérrez  
+**Desarrollador Web**
+
+📍 Miranda, Cúa — Venezuela  
+📅 2025  
+
+[![Email](https://img.shields.io/badge/Correo-DENNALY88%40GMAIL.COM-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DENNALY88@GMAIL.COM)
+[![Curso](https://img.shields.io/badge/Curso-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-blue?style=for-the-badge)](#)
+
+</div>
+
+---
+
+© 2025 **Danny José Jiménez Gutiérrez** — Todos los derechos reservados.
+
