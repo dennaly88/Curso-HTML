@@ -240,7 +240,6 @@
   </table>
 
   <h3>🛢️ Nivel 8 — Formularios e inputs</h3>
-  <table>
     <tr>
       <th>#</th>
       <th>Tema</th>
