@@ -240,6 +240,7 @@
   </table>
 
   <h3>🛢️ Nivel 8 — Formularios e inputs</h3>
+   <table>
     <tr>
       <th>#</th>
       <th>Tema</th>
@@ -255,12 +256,6 @@
     <tr><td>94</td><td>Campo numérico</td><td>☑️</td></tr>
     <tr><td>95</td><td>Campo de fecha</td><td>☑️</td></tr>
     <tr><td>95</td><td>Casillas</td><td>☑️</td></tr>
-
-    ---
-
-
-
----
-
-© 2025 **Danny José Jiménez Gutiérrez** — Todos los derechos reservados.
+  </table>
+ 
 
