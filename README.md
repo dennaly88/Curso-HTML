@@ -258,8 +258,6 @@
     <tr><td>95</td><td>Casillas</td><td>☑️</td></tr>
   </table>
 
-  --
-
 ## 👤 Autor
 
 <div align="center">
