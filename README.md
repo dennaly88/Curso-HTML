@@ -255,4 +255,5 @@
     <tr><td>93</td><td>Campo de correo electrónico</td><td>☑️</td></tr>
     <tr><td>94</td><td>Campo numérico</td><td>☑️</td></tr>
     <tr><td>95</td><td>Campo de fecha</td><td>☑️</td></tr>
-    <tr><td>96</td><td>Casillas <code
+    <tr><td>95</td><td>Casillas</td><td>☑️</td></tr>
+
